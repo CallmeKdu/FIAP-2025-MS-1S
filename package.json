@@ -1,0 +1,25 @@
+{
+  "name": "fiap-2025-ms-1s",
+  "version": "1.0.0",
+  "description": "Este repositório é parte das atividades em aula do professor José Romualdo, na matéria de Microsservices e Web Engineering.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallmeKdu/FIAP-2025-MS-1S.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CallmeKdu/FIAP-2025-MS-1S/issues"
+  },
+  "homepage": "https://github.com/CallmeKdu/FIAP-2025-MS-1S#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
